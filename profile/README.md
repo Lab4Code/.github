@@ -1,6 +1,6 @@
 # Welcome to the Lab4Code organization
 
-![Your Organization Logo](logo.png)
+![Your Organization Logo](./../assets/Lab4Code%20Logo.jpg)
 
 **Lab4Code** is a young team of developers and creators dedicated to making life easier through innovative projects and integrations. We believe in the power of technology to simplify processes, boost productivity, and enhance daily life.
 
