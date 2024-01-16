@@ -52,4 +52,4 @@ For more detailed guidelines on contributing, please refer to the related **Cont
 
 ---
 
-Thank you for visiting [Lab4Code]! We're excited to have you as part of our community. If you have any questions, suggestions, or ideas, please don't hesitate to create a issue for the related project.
+Thank you for visiting **Lab4Code**! We're excited to have you as part of our community. If you have any questions, suggestions, or ideas, please don't hesitate to create a issue for the related project.
