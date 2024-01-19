@@ -14,6 +14,9 @@
 
 At **Lab4Code**, we're passionate about finding creative solutions to common challenges. Our team of developers and enthusiasts work together to build open-source projects that simplify tasks and integrate with popular tools like Notion, and many more.
 
+Both of us are students from South Tyrol with a passion for programming projects and optimizing existing code.
+We love learning new stuff and doing projects to help people, like Websites, Apps or whole systems.
+
 ### Our Mission
 
 Our mission is to empower individuals and organizations by providing them with tools and integrations that streamline their workflows, enhance productivity, and improve their quality of life.
